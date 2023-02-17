@@ -11,7 +11,7 @@ public class hw3 {
         dog = dog * 4;
         cat = cat * 4;
         paper = paper * 4;
-        System.out.println("dog = " + dog + "; cat = " + cat + "; paper = " + paper + ";");
+        System.out.println("dog =  " + dog + "; cat = " + cat + "; paper = " + paper + ";");
 
         System.out.println("ZADANIE 3");
         dog = dog - 3.5;
